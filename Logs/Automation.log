@@ -1,0 +1,114 @@
+2024-06-10 19:57:14,346 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/Ecommerce.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:57:14,465 INFO  [] 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+ 
+2024-06-10 19:57:14,485 INFO  [] Test Suite Started: Ecommerce 
+2024-06-10 19:57:14,598 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/TicketBooking.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:57:14,606 INFO  [] Test Suite Started: Ticket booking 
+2024-06-10 19:57:14,606 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/Youtube.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:57:14,614 INFO  [] Test Suite Started: Youtube 
+2024-06-10 19:57:14,615 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/Ecommerce.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:57:14,622 INFO  [] Test Suite Started: Ecommerce 
+2024-06-10 19:57:14,725 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/Ecommerce.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:57:14,900 INFO  [] 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Buying a Product in Ecommerce application(ecommerce;buying-a-product-in-ecommerce-application)
+-------------------------------------------------------------------------------- 
+2024-06-10 19:57:15,036 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:57:15,036 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:57:15,037 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2024-06-10 19:57:15,037 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:57:15,037 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:57:15,037 INFO  [Log] Test Name:Buying a Product in Ecommerce application 
+2024-06-10 19:57:15,037 INFO  [Log] Feature Name:Ecommerce 
+2024-06-10 19:57:16,505 INFO  [WebDriverManager] Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125) 
+2024-06-10 19:57:16,561 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\senth\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe 
+2024-06-10 19:57:24,040 INFO  [Ecommerce] standard_user 
+2024-06-10 19:57:29,167 INFO  [Ecommerce] secret_sauce 
+2024-06-10 19:57:29,296 INFO  [Ecommerce] SuccessFully Logged In 
+2024-06-10 19:57:35,457 INFO  [Ecommerce] Product Name: Sauce Labs Backpack 1st Product Picked 
+2024-06-10 19:57:43,608 INFO  [Ecommerce] Product Name: Sauce Labs Fleece Jacket 2nd Product Picked 
+2024-06-10 19:57:46,733 INFO  [Ecommerce] Product Name: Test.allTheThings() T-Shirt (Red) 3rd Product Picked 
+2024-06-10 19:58:08,671 INFO  [Ecommerce] Item total: $95.97 
+2024-06-10 19:58:08,705 INFO  [Ecommerce] Tax: $7.68 
+2024-06-10 19:58:08,736 INFO  [Ecommerce] Total: $103.65 
+2024-06-10 19:58:12,862 INFO  [Ecommerce] Thank you for your order! 
+2024-06-10 19:58:12,867 INFO  [screencapture] Test Success 
+2024-06-10 19:58:12,867 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:12,867 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:12,867 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2024-06-10 19:58:12,867 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:12,867 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:13,276 INFO  [] 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Buying a Product in Ecommerce application
+---------------------------------------------------------------------- 
+2024-06-10 19:58:13,324 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/TicketBooking.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:58:13,331 INFO  [] Test Suite Started: Ticket booking 
+2024-06-10 19:58:13,339 WARN  [SerenityReporter] Feature from file:///C:/Users/senth/JunitFramework_Serenity_UI/src/test/resources/Features/TicketBooking.feature is not under the 'features' directory. Requirements report will not be correctly generated! 
+2024-06-10 19:58:13,343 INFO  [] 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Booking a ticket in bus(ticketbooking;booking-a-ticket-in-bus)
+-------------------------------------------------------------------------------- 
+2024-06-10 19:58:13,351 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:58:13,351 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:58:13,351 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2024-06-10 19:58:13,351 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:58:13,351 INFO  [Log] **************************************************************************************** 
+2024-06-10 19:58:13,351 INFO  [Log] Test Name:Booking a ticket in bus 
+2024-06-10 19:58:13,351 INFO  [Log] Feature Name:TicketBooking 
+2024-06-10 19:58:13,383 INFO  [WebDriverManager] Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125) 
+2024-06-10 19:58:13,405 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\senth\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe 
+2024-06-10 19:58:14,506 INFO  [Log] Bus Application 
+2024-06-10 19:58:30,869 INFO  [Log] Data Filled 
+2024-06-10 19:58:30,907 ERROR [TicketBooking] no such element: Unable to locate element: {"method":"css selector","selector":"#blasl\.ns\>"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5e17f112c0f5b5b2b57451f83e9e4bec, findElement {using=id, value=blasl.ns>}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\senth\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63542}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63542/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e17f112c0f5b5b2b57451f83e9e4bec 
+2024-06-10 19:58:31,247 INFO  [screencapture] Test Failed 
+2024-06-10 19:58:31,247 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:31,247 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:31,247 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2024-06-10 19:58:31,247 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:31,247 INFO  [Log] ****************************************************************************************** 
+2024-06-10 19:58:32,194 ERROR [] 
+  _____   ___   ___   _____     ___   ___   ___    ___    ___ 
+ |_   _| | __| / __| |_   _|   | __| | _ \ | _ \  / _ \  | _ \
+   | |   | _|  \__ \   | |     | _|  |   / |   / | (_) | |   /
+   |_|   |___| |___/   |_|     |___| |_|_\ |_|_\  \___/  |_|_\
+
+Booking a ticket in bus
+--------------------------------------------------------------- 
+2024-06-10 19:58:32,302 ERROR []     Test failed at step: And Customer clicks on search 
+2024-06-10 19:58:32,303 ERROR []     no such element: Unable to locate element: {"method":"css selector","selector":"#blasl\.ns\>"} 
